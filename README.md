@@ -29,7 +29,7 @@ A simple Python CLI tool that fetches real-time weather data for a given city an
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-logger.git
+git clone https://github.com/aadiraj18/Real-Time-Weather-Logger-API-CSV.git
 cd weather-logger
 ```
 
