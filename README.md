@@ -57,7 +57,7 @@ API_KEY = "c6048d32493ec1fada776b7eb9a225ed"
 ## ▶️ How to Run
 
 ```bash
-python day_4.py
+python weather_logger.py
 ```
 
 ---
